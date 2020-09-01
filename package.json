@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/erwin-bustillo/Design-Patterns/issues"
   },
-  "homepage": "https://github.com/erwin-bustillo/Design-Patterns#readme"
+  "homepage": "https://github.com/erwin-bustillo/Design-Patterns#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
